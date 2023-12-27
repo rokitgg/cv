@@ -27,7 +27,7 @@ export const RESUME_DATA = {
   location: "Vigo, Spain, CEST",
   locationLink: "https://www.google.com/maps/place/Vigo",
   about:
-    "Full Stack Engineer focused on building products with extra attention to details",
+    "Full Stack Developer with a passion for Web3 and Blockchain related products.",
   summary:
   "As a Full Stack Engineer, I have successfully developed multiple products from inception to launch. My focus is on building scalable solutions that not only satisfy user needs, but also have the capacity to scale as required. Currently, I primarily work with TypeScript, React, Node.js, and NextJS (version 13) and I feel comfortable with most Web3 environments.",  avatarUrl: "https://avatars.githubusercontent.com/u/125133357?s=400&u=419bb75bc4430b8e4f17df4ad4be63e442404dad&v=4",
   personalWebsiteUrl: "",
